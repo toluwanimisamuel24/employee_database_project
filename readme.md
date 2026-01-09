@@ -23,11 +23,6 @@ This repository contains SQL scripts and analysis based on a corporate employee 
 | `titles` | Job title history |
 | `salaries` | Salary history |
 
----
-
-## 🧱 Schema (DDL)
-
-All `CREATE TABLE` statements are in `schema/create_tables.sql`.
 
 ---
 

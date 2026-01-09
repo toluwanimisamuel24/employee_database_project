@@ -39,3 +39,21 @@ Reusable logical views are stored in `views/`:
 - `current_dept_emp.sql`: Current department assignment
 
 ---
+
+## Key Skills Demonstrated
+- Relational database design
+- JOINs across multiple tables
+- Views for current-state analysis
+- Aggregations and subqueries
+- Real-world HR and payroll analytics
+
+## Key Insights
+- Current workforce distribution
+- Department payroll costs
+- Career progression patterns
+- Gender-based salary comparisons
+
+## Tools Used
+- MySQL
+
+---
